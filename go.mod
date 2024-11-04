@@ -1,3 +1,3 @@
-module task-golang-1
+module task-golang
 
 go 1.23.2

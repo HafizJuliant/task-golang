@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strconv"
-	"task-golang-1/utils"
+	"task-golang/utils"
 )
 
 func main() {
